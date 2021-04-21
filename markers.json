@@ -1,0 +1,336 @@
+{
+  "markerSets": [
+    {
+      "id": "pois",
+      "label": "POIs",
+      "toggleable": true,
+      "defaultHide": false,
+      "marker": [
+        {
+          "id": "spawn",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 0,
+            "y": 78,
+            "z": 0
+          },
+          "label": "Spawn",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "soulsfortress",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 15488,
+            "y": 156,
+            "z": 15237
+          },
+          "label": "Soul's fortress",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "loomvalley",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1507,
+            "y": 64,
+            "z": -5150
+          },
+          "label": "Loom valley",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "northedge",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -63,
+            "y": 73,
+            "z": -4315
+          },
+          "label": "NorthEdge",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "unknowntown",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -157,
+            "y": 64,
+            "z": -5600
+          },
+          "label": "Unknown town",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "simpcity",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -28,
+            "y": 63,
+            "z": -2152
+          },
+          "label": "Simp city",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "oasiscity",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -3147,
+            "y": 66,
+            "z": 104
+          },
+          "label": "Oasis city",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "thedrain",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -9394,
+            "y": 5,
+            "z": -4140
+          },
+          "label": "The Drain",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "joeroganville",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1032,
+            "y": 84,
+            "z": 5712
+          },
+          "label": "Joe rogan ville ruins",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "westvirginia",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -902,
+            "y": 65,
+            "z": 306
+          },
+          "label": "West Virginia",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "china",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -741,
+            "y": 65,
+            "z": 5499
+          },
+          "label": "China",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "berriesareillegal",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 10114,
+            "y": 66,
+            "z": -10877
+          },
+          "label": "BERRIES ARE ILLEGAL",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "japan",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -221,
+            "y": 62,
+            "z": -229
+          },
+          "label": "Japan",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "notredame",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 554,
+            "y": 67,
+            "z": -1101
+          },
+          "label": "Notre Dame",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "illegalberryfarm",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1204,
+            "y": 124,
+            "z": -405
+          },
+          "label": "Illegal berry farm",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "creeperfarm",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1344,
+            "y": 193,
+            "z": -4185
+          },
+          "label": "Tsar's creeper farm",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "jahrusalem",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1225,
+            "y": 120,
+            "z": -708
+          },
+          "label": "Jahrusalem",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        },
+		{
+          "id": "floatinghouse",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -493,
+            "y": 128,
+            "z": -1080
+          },
+          "label": "Floaty house",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
+        }
+      ]
+    }
+  ]
+}
