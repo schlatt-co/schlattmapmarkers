@@ -329,6 +329,24 @@
           },
           "minDistance": 10.0,
           "maxDistance": 10000000.0
+        },
+		{
+          "id": "epicbase9000",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -6150,
+            "y": 62,
+            "z": -1538
+          },
+          "label": "Epic Base 9000",
+          "icon": "assets/poi.svg",
+          "anchor": {
+            "x": 16,
+            "y": 16
+          },
+          "minDistance": 10.0,
+          "maxDistance": 10000000.0
         }
       ]
     }
